@@ -1,4 +1,4 @@
-Tetris-in-Java
+Tetris in Java
 ==============
 
 I followed the tutorial from:
